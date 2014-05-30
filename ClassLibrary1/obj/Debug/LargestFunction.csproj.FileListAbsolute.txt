@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\user\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\user\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+c:\users\user\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
+c:\users\user\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\LargestFunction.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\user\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
